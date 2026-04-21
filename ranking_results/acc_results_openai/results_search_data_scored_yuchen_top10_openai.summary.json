@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/search_data_scored_yuchen.json",
+  "model": "gpt-5.4-mini",
+  "provider": "openai",
+  "top_k": 10,
+  "total": 348,
+  "correct": 255,
+  "accuracy": 73.28,
+  "errors": 0,
+  "yes_predictions": 116,
+  "no_predictions": 232,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 57.93,
+  "no_accuracy": 84.24
+}

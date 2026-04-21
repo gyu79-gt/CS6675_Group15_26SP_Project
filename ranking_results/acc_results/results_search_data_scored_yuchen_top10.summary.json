@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/search_data_scored_yuchen.json",
+  "model": "qwen3.5-27b@q4_k_xl",
+  "provider": "lmstudio",
+  "top_k": 10,
+  "total": 348,
+  "correct": 236,
+  "accuracy": 67.82,
+  "errors": 0,
+  "yes_predictions": 43,
+  "no_predictions": 305,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 26.21,
+  "no_accuracy": 97.54
+}

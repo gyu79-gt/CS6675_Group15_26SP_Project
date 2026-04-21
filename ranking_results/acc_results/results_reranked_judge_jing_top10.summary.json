@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/reranked_judge_jing.jsonl",
+  "model": "qwen3.5-27b@q4_k_xl",
+  "provider": "lmstudio",
+  "top_k": 10,
+  "total": 348,
+  "correct": 233,
+  "accuracy": 66.95,
+  "errors": 0,
+  "yes_predictions": 56,
+  "no_predictions": 292,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 29.66,
+  "no_accuracy": 93.6
+}

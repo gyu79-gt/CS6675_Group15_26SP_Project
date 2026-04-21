@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/search_data_p_embed_guangyi.json",
+  "model": "gpt-5.4-mini",
+  "provider": "openai",
+  "top_k": 10,
+  "total": 348,
+  "correct": 241,
+  "accuracy": 69.25,
+  "errors": 0,
+  "yes_predictions": 126,
+  "no_predictions": 222,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 56.55,
+  "no_accuracy": 78.33
+}

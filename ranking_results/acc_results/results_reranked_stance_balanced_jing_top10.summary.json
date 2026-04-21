@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/reranked_stance_balanced_jing.jsonl",
+  "model": "qwen3.5-27b@q4_k_xl",
+  "provider": "lmstudio",
+  "top_k": 10,
+  "total": 348,
+  "correct": 241,
+  "accuracy": 69.25,
+  "errors": 0,
+  "yes_predictions": 60,
+  "no_predictions": 288,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 33.79,
+  "no_accuracy": 94.58
+}

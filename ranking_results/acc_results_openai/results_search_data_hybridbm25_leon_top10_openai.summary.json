@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/search_data_hybridbm25_leon.json",
+  "model": "gpt-5.4-mini",
+  "provider": "openai",
+  "top_k": 10,
+  "total": 348,
+  "correct": 254,
+  "accuracy": 72.99,
+  "errors": 0,
+  "yes_predictions": 125,
+  "no_predictions": 223,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 60.69,
+  "no_accuracy": 81.77
+}

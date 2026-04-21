@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/search_data_hybridbm25_leon.json",
+  "model": "qwen3.5-27b@q4_k_xl",
+  "provider": "lmstudio",
+  "top_k": 10,
+  "total": 348,
+  "correct": 237,
+  "accuracy": 68.1,
+  "errors": 0,
+  "yes_predictions": 50,
+  "no_predictions": 298,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 28.97,
+  "no_accuracy": 96.06
+}

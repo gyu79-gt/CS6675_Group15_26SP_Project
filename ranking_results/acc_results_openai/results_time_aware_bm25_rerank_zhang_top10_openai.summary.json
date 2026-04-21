@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/results_time_aware_bm25_rerank_zhang.json",
+  "model": "gpt-5.4-mini",
+  "provider": "openai",
+  "top_k": 10,
+  "total": 348,
+  "correct": 249,
+  "accuracy": 71.55,
+  "errors": 0,
+  "yes_predictions": 124,
+  "no_predictions": 224,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 58.62,
+  "no_accuracy": 80.79
+}

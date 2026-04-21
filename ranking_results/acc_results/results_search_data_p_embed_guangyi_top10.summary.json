@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/search_data_p_embed_guangyi.json",
+  "model": "qwen3.5-27b@q4_k_xl",
+  "provider": "lmstudio",
+  "top_k": 10,
+  "total": 348,
+  "correct": 233,
+  "accuracy": 66.95,
+  "errors": 0,
+  "yes_predictions": 54,
+  "no_predictions": 294,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 28.97,
+  "no_accuracy": 94.09
+}

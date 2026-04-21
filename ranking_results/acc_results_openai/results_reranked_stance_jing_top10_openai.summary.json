@@ -1,0 +1,16 @@
+{
+  "input": "ranking_results/reranked_stance_jing.jsonl",
+  "model": "gpt-5.4-mini",
+  "provider": "openai",
+  "top_k": 10,
+  "total": 348,
+  "correct": 247,
+  "accuracy": 70.98,
+  "errors": 0,
+  "yes_predictions": 136,
+  "no_predictions": 212,
+  "yes_resolutions": 145,
+  "no_resolutions": 203,
+  "yes_accuracy": 62.07,
+  "no_accuracy": 77.34
+}

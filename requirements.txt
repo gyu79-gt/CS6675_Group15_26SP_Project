@@ -1,0 +1,7 @@
+requests
+tqdm
+exa_py
+numpy
+pandas
+bm25s
+sentence-transformers
