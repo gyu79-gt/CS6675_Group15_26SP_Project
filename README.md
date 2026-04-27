@@ -1,17 +1,17 @@
 # CS6675 Final Project Submission
 
-This folder contains the final dataset, reranking pipelines, shared evaluator, live demo script, and saved results for our project on reranking web evidence for binary political forecasting.
+This repository contains the final dataset, reranking pipelines, shared evaluator, live demo script, and saved results for our project on reranking web evidence for binary political forecasting.
 
-The Group Memembers are: Guangyi Yu, Jingfei Zhou, Christina Zhang, Yuxuan Liang, Yuchen Han
+Team members: Guangyi Yu, Jingfei Zhou, Christina Zhang, Yuxuan Liang, Yuchen Han
 
 ## Structure
 
-- `data/search_data.json`: final cleaned evidence dataset used by all rerankers
+- `data/search_data.json`: final cleaned dataset used across all rerank methods
 - `data/scripts/`: scripts used for data collection, filtering, labeling, and leak checking
-- `pipelines/`: reranking scripts from team members
-- `eval/eval.py`: shared downstream LLM evaluation script
+- `pipelines/`: different reranking implementations from team members
+- `eval/eval.py`: shared LLM evaluation script to simulate decision making and test the rerank method performance
 - `demo/demo.py`: live command line demo using Exa search and local LLM reranking
-- `ranking_results/`: saved reranked outputs and evaluation summaries
+- `ranking_results/`: saved reranked outputs and evaluation results
 
 ## Dataset
 
@@ -21,7 +21,7 @@ Final dataset: `data/search_data.json`
 - 20 cleaned web search documents per question
 - 145 YES / 203 NO resolved labels
 - evidence restricted to documents before each question cutoff date
-- shared input used by all submitted reranking pipelines
+- shared input used by all reranking pipelines
 
 
 ## API Keys and Local Models
