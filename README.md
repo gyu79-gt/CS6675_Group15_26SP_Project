@@ -2,7 +2,7 @@
 
 This folder contains the final dataset, reranking pipelines, shared evaluator, live demo script, and saved results for our project on reranking web evidence for binary political forecasting.
 
-The Group Memembers are: Guangyi Yu, Jingfei Zhou, Christina Zhang, Yuxuan Liao, Yuchen Han
+The Group Memembers are: Guangyi Yu, Jingfei Zhou, Christina Zhang, Yuxuan Liang, Yuchen Han
 
 ## Structure
 
